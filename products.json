@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "type": 0,
+      "name": "Budweiser",
+      "description": "Some Full Sail IPA unwisely can be kind to a miller. A loyal Rolling Rock buries a childlike milwakees best."
+    }
+    {
+      "id": 1,
+      "type": 0,
+      "name": "PBR",
+      "description": "Most people believe that a financial stein finds lice on an Amarillo Pale Ale, but they need to remember how underhandedly an Octoberfest defined by a Hazed and Infused self-flagellates."
+    },
+    {
+      "id": 2,
+      "type": 0,
+      "name": "Coors",
+      "description": "The corona light living with a Jamaica Red Ale stumbly finds lice on the fashionable Keystone. Any bar stool can have a change of heart about a burly Corona,"
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "name": "Becks",
+      "description": "A lively and lighter beer with a crap finish."
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "name": "Amstel",
+      "description": "When you see the Strohs behind the wanker, it means that a barely ravishing Sierra Nevada feels nagging remorse."
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "name": "Stella Artois",
+      "description": "Most people believe that a Dos Equis near a spudgun accidentally operates a small bar with a Hefeweizen, but they need to remember how accidentally a bill self-flagellates."
+    }
+    {
+      "id": 6,
+      "type": 2,
+      "name": "Shiner",
+      "description": "A barely nuclear Sam Adams procrastinates, but a Citra Ninja inside a stein tries to seduce an often whacked Red Stripe."
+    },
+    {
+      "id": 7,
+      "type": 2,
+      "name": "Anchor Bock",
+      "description": "A foreign freight train is tooled. Some Busch beyond a Mango Beer unwisely pours freezing cold booze on the optimal Left Hand Milk Stout."
+    },
+    {
+      "id": 8,
+      "type": 2,
+      "name": "Yuengling Bock",
+      "description": "Subtle with delicate nuances of soft cocoa and lightly toasted nuts."
+    },
+    {
+      "id": 9,
+      "type": 3,
+      "name": "Sierra Nevada",
+      "description": "A rich, robust blend of organic black tea, cinnamon, cardamom, black pepper & spices."
+    },
+    {
+      "id": 10,
+      "type": 3,
+      "name": "Doghead",
+      "description": "Black tea kissed with bergamot's lavender essence."
+    },
+    {
+      "id": 11,
+      "type": 3,
+      "name": "Stone",
+      "description": "A breakfast-style black tea of malty boldnes & bright flavor."
+    },
+    {
+      "id": 12,
+      "type": 4,
+      "name": "Hog Heaven",
+      "description": "Robust infusion of rich spice notes from cinnamon, ginger, pepper and cloves"
+    },
+    {
+      "id": 13,
+      "type": 4,
+      "name": "Horse Piss",
+      "description": "Well balanced infusion of crisp orchid and sweet jasmine with a clean finish"
+    },
+    {
+      "id": 14,
+      "type": 4,
+      "name": "Old Horizontal",
+      "description": "Small-batch techniques create a standout oolong tea"
+    },
+    {
+      "id": 15,
+      "type": 5,
+      "name": "Great Lakers",
+      "description": "Rich, almost full-bodied, smooth taste with sweet ending and complex notes"
+    },
+    {
+      "id": 16,
+      "type": 5,
+      "name": "Founders",
+      "description": "Lightly sweet with a smooth texture and a hint of lingering chestnut"
+    },
+    {
+      "id": 17,
+      "type": 5,
+      "name": "Black Butte",
+      "description": "This bright tea blend will awaken your taste buds."
+    }
+  ]
+}

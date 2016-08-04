@@ -1,0 +1,41 @@
+
+{
+  "types": [
+    {
+      "id": 0,
+      "category": 0,
+      "name": "American Lager",
+      "description": "Full, Light, Balanced beer. THe American standard, basically water that get's you drunk."
+    },
+    {
+      "id": 1,
+      "category": 0,
+      "name": "Pilsner",
+      "description": "Very light, distinct hops. Lighter then American Lager."
+    },
+    {
+      "id": 2,
+      "category": 0,
+      "name": "Bock",
+      "description": "Strong, rich, toasty body.  bottom fermenting lager that generally takes extra months of lagering (cold storage) to smooth out such a strong brew"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "Pale Ale",
+      "description": "So called because they are brewed with more lightly roasted malts, pale ales typically have a more equal malt-to-hop balance."
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "Barley Wine",
+      "description": "Barley wine is a style of strong ale, implied to be as potent as wine, usually containing more than 6% alcohol by volume and traditionally as much as 11%"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "Stout and Porter",
+      "description": "Dark beer made using roasted malt or roasted barley, hops, water and yeast. Stouts were traditionally the generic term for the strongest or stoutest porters, typically 7% or 8%,"
+    }
+  ]
+}

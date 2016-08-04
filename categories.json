@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Lagers"
+        },
+        {
+            "id": 1,
+            "name": "Ales"
+        }
+    ]
+}
