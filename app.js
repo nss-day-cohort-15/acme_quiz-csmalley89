@@ -7,9 +7,9 @@
 
 
 $(document).ready(function () {
-  var url = "types.json";
+  var url1 = "types.json";
 
-  $.getJSON(url, function (beer) {
+  $.getJSON(url1, function (beer) {
     console.log(beer);
 
     $('#lagers').click(function () {
@@ -19,8 +19,8 @@ $(document).ready(function () {
       var types = beer.types.map(function (type){
       $.each(beer, function (key, value) {
         if (type.category === 0) {
-          output +=`<li class="lager">`;
-          output += `</li><a class="btn btn-danger" data-toggle="collapse">${type.name}</a>` + `<h4 class="collapse in">${type.description}</h4>`
+          output +=`<li class="lager" id="${type.id}>"`;
+          output += `</li><a class="btn btn-danger" data-target="#${type.id}" data-toggle="collapse">${type.name}</a>` + `<div id="${type.id}" class="collapse"<h4>${type.description}</h4>  <button type="button" class="btn btn-primary">Show Beers</button></div>`
         }
        });
       });
@@ -36,8 +36,8 @@ $(document).ready(function () {
       var types = beer.types.map(function (type){
       $.each(beer, function (key, value) {
         if (type.category === 1) {
-          output +=`<li class="lager">`;
-          output += `</li><a class="btn btn-danger" data-toggle="collapse">${type.name}</a>` + `<h4 class="collapse in">${type.description}</h4>`
+          output +=`<li class="ales" id="${type.id}>"`;
+          output += `</li><a class="btn btn-danger" data-target="#${type.id}" data-toggle="collapse">${type.name}</a>` + `<div id="${type.id}" class="collapse"<h4>${type.description}</h4>  <button type="button" class="btn btn-primary">Show Beers</button></div>`
         }
        });
       });
@@ -50,7 +50,7 @@ $(document).ready(function () {
 });
 
 
-
+// #content > ul > a:nth-child(2)
 
 
 // var Store = (function (store) {
